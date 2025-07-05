@@ -17,4 +17,4 @@ This organization contains all the important repositories required to build AOSP
 * [**Nothing Hardware**](https://github.com/A-cord/android_hardware_nothing) (`android_hardware_nothing`)
 
 ### All credits goes to respected devs...
-This is just a forked version of * [**original repository**](https://github.com/nothing-2a) (`Nothing-2A`)
+This is just a forked version of [**original repository**](https://github.com/nothing-2a) (`Nothing-2A`)
