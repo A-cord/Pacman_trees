@@ -15,3 +15,6 @@ This organization contains all the important repositories required to build AOSP
 ### Additional repositories required to build
 * [**Mediatek Sepolicy Vendor**](https://github.com/A-cord/android_device_mediatek_sepolicy_vndr) (`android_device_mediatek_sepolicy_vndr`)
 * [**Nothing Hardware**](https://github.com/A-cord/android_hardware_nothing) (`android_hardware_nothing`)
+
+### All credits goes to respected devs...
+This is just a forked version of * [**original repository**](https://github.com/nothing-2a) (`Nothing-2A`)
